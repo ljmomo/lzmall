@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.lvzhu.mall</groupId>
+    <artifactId>lzmall</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>lzmall-common</module>
+        <module>lzmall-system</module>
+        <module>lzmall-user</module>
+        <module>lzmall-shop</module>
+        <module>lzmall-order</module>
+        <module>lzmall-pay</module>
+        <module>lzmall-search</module>
+        <module>lzmall-promotion</module>
+    </modules>
+    <packaging>pom</packaging>
+
+</project>
