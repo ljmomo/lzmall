@@ -11,5 +11,9 @@
 
     <artifactId>lzmall-system</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>lzmall-system-api</module>
+        <module>lzmall-system-biz</module>
+    </modules>
 
 </project>

@@ -15,7 +15,7 @@
         <module>lzmall-order</module>
         <module>lzmall-pay</module>
         <module>lzmall-search</module>
-        <module>lzmall-promotion</module>
+        <module>lzmall-market</module>
     </modules>
     <packaging>pom</packaging>
 
