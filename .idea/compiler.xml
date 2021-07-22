@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lzmall-system-biz" />
+        <module name="lzmall-common-utils" />
+        <module name="lzmall-system-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lzmall" target="1.5" />
+      <module name="lzmall-common" target="1.5" />
+      <module name="lzmall-common-utils" target="8" />
+      <module name="lzmall-market" target="1.5" />
+      <module name="lzmall-order" target="1.5" />
+      <module name="lzmall-pay" target="1.5" />
+      <module name="lzmall-search" target="1.5" />
+      <module name="lzmall-shop" target="1.5" />
+      <module name="lzmall-system" target="1.5" />
+      <module name="lzmall-system-api" target="1.8" />
+      <module name="lzmall-system-biz" target="1.8" />
+      <module name="lzmall-user" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

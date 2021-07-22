@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lzmall.iml" filepath="$PROJECT_DIR$/lzmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzmall-common/lzmall-common.iml" filepath="$PROJECT_DIR$/lzmall-common/lzmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzmall-common/lzmall-common-utils/lzmall-common-utils.iml" filepath="$PROJECT_DIR$/lzmall-common/lzmall-common-utils/lzmall-common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzmall-market/lzmall-market.iml" filepath="$PROJECT_DIR$/lzmall-market/lzmall-market.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzmall-order/lzmall-order.iml" filepath="$PROJECT_DIR$/lzmall-order/lzmall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzmall-pay/lzmall-pay.iml" filepath="$PROJECT_DIR$/lzmall-pay/lzmall-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzmall-search/lzmall-search.iml" filepath="$PROJECT_DIR$/lzmall-search/lzmall-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzmall-shop/lzmall-shop.iml" filepath="$PROJECT_DIR$/lzmall-shop/lzmall-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzmall-system/lzmall-system.iml" filepath="$PROJECT_DIR$/lzmall-system/lzmall-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzmall-system/lzmall-system-api/lzmall-system-api.iml" filepath="$PROJECT_DIR$/lzmall-system/lzmall-system-api/lzmall-system-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzmall-system/lzmall-system-biz/lzmall-system-biz.iml" filepath="$PROJECT_DIR$/lzmall-system/lzmall-system-biz/lzmall-system-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzmall-user/lzmall-user.iml" filepath="$PROJECT_DIR$/lzmall-user/lzmall-user.iml" />
+    </modules>
+  </component>
+</project>
